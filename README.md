@@ -35,7 +35,7 @@ Selectel's certificate management can be finicky, especially when you have wildc
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ssl-automation-selectel.git
+git clone https://github.com/dignezzz/s3-ssl-selectel.git
 cd ssl-automation-selectel
 ```
 
@@ -225,3 +225,4 @@ The script also gracefully handles Let's Encrypt rate limiting by using existing
 
 
 </div>
+
