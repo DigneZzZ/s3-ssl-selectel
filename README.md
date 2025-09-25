@@ -221,9 +221,10 @@ The script also gracefully handles Let's Encrypt rate limiting by using existing
 
 ### 🎯 Made with ❤️ for SSL automation
 
-**[⭐ Star](https://github.com/DigneZzZ/s3-ssl-selecte)** • **[🐛 Issues](https:/DigneZzZ/s3-ssl-selecte/issues)** • **[📖 Wiki](https://github.com/DigneZzZ/s3-ssl-selecte/wiki)**
+**[⭐ Star](https://github.com/DigneZzZ/s3-ssl-selectel)** • **[🐛 Issues](https:/DigneZzZ/s3-ssl-selectel/issues)** • **[📖 Wiki](https://github.com/DigneZzZ/s3-ssl-selectel/wiki)**
 
 
 </div>
+
 
 
