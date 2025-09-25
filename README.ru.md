@@ -35,7 +35,7 @@
 ### 1. Клонирование репозитория
 ```bash
 git clone https://github.com/dignezzz/s3-ssl-selectel.git
-cd ssl-automation-selectel
+cd s3-ssl-selectel
 ```
 
 ### 2. Установка зависимостей
@@ -212,4 +212,5 @@ WantedBy=timers.target
 
 
 </div>
+
 
