@@ -208,9 +208,10 @@ WantedBy=timers.target
 
 ### 🎯 Сделано с ❤️ для автоматизации SSL
 
-**[⭐ Star](https://github.com/DigneZzZ/s3-ssl-selecte)** • **[🐛 Issues](https://github.com/DigneZzZ/s3-ssl-selecte/issues)** • **[📖 Wiki](https://github.com/DigneZzZ/s3-ssl-selecte/wiki)**
+**[⭐ Star](https://github.com/DigneZzZ/s3-ssl-selectel)** • **[🐛 Issues](https://github.com/DigneZzZ/s3-ssl-selectel/issues)** • **[📖 Wiki](https://github.com/DigneZzZ/s3-ssl-selectel/wiki)**
 
 
 </div>
+
 
 
