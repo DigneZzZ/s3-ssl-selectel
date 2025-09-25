@@ -34,7 +34,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/ssl-automation-selectel.git
+git clone https://github.com/dignezzz/s3-ssl-selectel.git
 cd ssl-automation-selectel
 ```
 
@@ -212,3 +212,4 @@ WantedBy=timers.target
 
 
 </div>
+
